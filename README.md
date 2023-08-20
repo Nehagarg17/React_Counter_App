@@ -1,3 +1,8 @@
+It is a very basic react app showing a counter on UI.
+![counter_app](https://github.com/Nehagarg17/React_Counter_App/assets/139214562/612c801a-63b3-45c0-ba57-88f2668c9b39)
+
+https://nehagarg17.github.io/React_Counter_App/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
